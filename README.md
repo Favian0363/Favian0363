@@ -1,15 +1,14 @@
 <div align="center">
   <h1>Favian Marrero Diaz</h1>
-  <p><b>Software Engineering Student @ UPR Mayagüez | Low-Level Systems & Embedded Firmware</b></p>
+  <p><b>Software Engineering Student @ UPR Mayagüez</b></p>
 
   <a href="https://linkedin.com/in/favian-marrero"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:favian.marrero@upr.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Favian0363"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
-Software Engineering sophomore at UPR Mayagüez minoring in Applied Mathematics. Interested in low-level and embedded systems, high performance applications and machine learning. 
+Sophomore minoring in Applied Mathematics. Interested in low-level and embedded systems, high performance applications and machine learning. 
 
-Currently working on profiling hardware for Autonomous Underwater Vehicles at RUMarino. Previously built C firmware to simulate distributed attacks across IoT networks for model training.
+Currently working on profiling hardware for AUVs at RUMarino. Previously built C firmware to simulate distributed attacks across IoT networks for model training.
 
 ---
 
@@ -33,21 +32,12 @@ Refactored execution bottlenecks in an open-source trading codebase. Used numpy 
 
 ---
 
-### Stack
+### Part of stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,linux,docker,cmake,postgres,matlab,aws&theme=dark" />
   </a>
-</p>
-
----
-
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Favian0363&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian0363&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
 </p>
 
 ---
